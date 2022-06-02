@@ -1,4 +1,6 @@
-Optimized way to load-more/infinite scroll using livewire and alpine
+## Optimized way to load-more/infinite scroll using livewire and alpine
+
+Example component: app/Http/Livewire/UserList.php
 
 ### How to Setup
 ``` 
